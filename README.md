@@ -1,4 +1,48 @@
-Меня зовут **Аслан Мамедов - ("Aslan Mammadov")** я занимаюсь веб-разработкой с 2020 года.
+Привет! Меня зовут **Аслан**. Я Frontend developer с уклоном на Backend . Работаю в
+сфере IT с 2020 года. C 2019 - 2020 год начал самообразование в IT сфере, прошел
+пару курсов на Udemy по JavaScript. По мере изучение я начал самостоятельно
+искать, и использовать новые технологии для повышение класификации в IT сфере.
+Стараюсь использовать новые технологии для улучшение производительности в своих
+проектах. Я являюсь самоучкой, и стараюсь развиваться в этой сфере.
+
+Технологии
+HTML5 / PUG / Semantic Elements
+CSS3 / SCSS / SASS / BEM / /Flexbox / Grid / Responsive Design / CSS in JS
+JavaScript / ES6 / Ajax / Axios / TypeScript
+React JS / React Router / Next JS
+Redux / Redux RTK / Redux RTK Query / React Query
+React Hook Form / Yup / Formik / React Select / React Toastify
+Node JS / Express JS / Nest JS / Socket.IO / NodeMailer / Multer
+GraphQL / Apollo Server / Apollo Client
+PostgreSQL / Prisma / TypeORM / Sequelize / MongoDB / Mongoose
+Webpack / Gulp / Vite / Linters / Husky
+TailwindCSS / Material UI / Next UI / Ant Design / Chakra UI / Bootstrap
+GIT / NPM / YARN
+Figma / Photoshop / Postman / Insomnia / Devtools
+
+Навыки
+Усидчивость.
+Самокритика.
+Перфекционист.
+Комуницировать.
+Работать в конде.
+Ответственность.
+Самообучаемость.
+Самостоятельность.
+Любовь к своей работе.
+Осваивание новых технологий.
+Поиск необходимой информации.
+Чтение и работать с документацией.
+
+В планах
+Планирую изучить новые технологии, и использовать их в своих проектах.
+В планах такие технолгии как:
+Docker / Nginx / Redis / Kafka / Rabbitmq
+RxJS / Jest / Storybook / PWA / OOP / SOLID / MVP / MVVM
+Технологии в перспективе которым я планирую также изучать:
+Vue JS / Nuxt JS / Angular / Solid / Astro / tRPC / WebRTC
+Планирую стать Full Stack Senior Developer-ром по JavaScript / TypeScript.
+
 
 ### Статистика на GitHub
 
