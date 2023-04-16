@@ -34,16 +34,6 @@ Figma / Photoshop / Postman / Insomnia / Devtools
 Поиск необходимой информации.
 Чтение и работать с документацией.
 
-В планах
-Планирую изучить новые технологии, и использовать их в своих проектах.
-В планах такие технолгии как:
-Docker / Nginx / Redis / Kafka / Rabbitmq
-RxJS / Jest / Storybook / PWA / OOP / SOLID / MVP / MVVM
-Технологии в перспективе которым я планирую также изучать:
-Vue JS / Nuxt JS / Angular / Solid / Astro / tRPC / WebRTC
-Планирую стать Full Stack Senior Developer-ром по JavaScript / TypeScript.
-
-
 ### Статистика на GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AslanMamedov&show_icons=true&hide=prs,issues,contribs&theme=dark)
