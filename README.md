@@ -4,21 +4,52 @@
 искать, и использовать новые технологии для повышение класификации в IT сфере.
 Стараюсь использовать новые технологии для улучшение производительности в своих
 проектах. Я являюсь самоучкой, и стараюсь развиваться в этой сфере.
+Специализируюсь в создании интерактивных и высокопроизводительных веб-приложений с использованием современных технологий и фреймворков.
 
-Технологии
-HTML5 / PUG / Semantic Elements
-CSS3 / SCSS / SASS / BEM / /Flexbox / Grid / Responsive Design / CSS in JS
-JavaScript / ES6 / Ajax / Axios / TypeScript
-React JS / React Router / Next JS
-Redux / Redux RTK / Redux RTK Query / React Query
-React Hook Form / Yup / Formik / React Select / React Toastify
-Node JS / Express JS / Nest JS / Socket.IO / NodeMailer / Multer
-GraphQL / Apollo Server / Apollo Client
-PostgreSQL / Prisma / TypeORM / Sequelize / MongoDB / Mongoose
-Webpack / Gulp / Vite / Linters / Husky
-TailwindCSS / Material UI / Next UI / Ant Design / Chakra UI / Bootstrap
-GIT / NPM / YARN
-Figma / Photoshop / Postman / Insomnia / Devtools
+JavaScript Разработчик
+- Создание высококачественных веб-приложений с использованием HTML5, PUG и семантических элементов.
+- Разработка стильных и адаптивных пользовательских интерфейсов с использованием CSS3, SCSS, SASS, BEM, Flexbox и Grid.
+- Опыт работы с CSS-in-JS подходом.
+- Продвинутое владение JavaScript, ES6, AJAX и Axios.
+- Разработка на React JS, включая использование React Router и Next JS.
+- Интеграция и управление состоянием приложений с помощью Redux, Redux RTK, Redux RTK Query и React Query.
+- Работа с формами с использованием React Hook Form, Yup, Formik, React Select и React Toastify.
+- Опыт работы с Node JS, Express JS, Nest JS, Socket.IO, NodeMailer и Multer.
+- Разработка и интеграция GraphQL API с использованием Apollo Server и Apollo Client.
+- Работа с реляционными базами данных, такими как PostgreSQL, а также с ORM как Prisma, TypeORM и Sequelize.
+- Опыт работы с NoSQL базами данных, включая MongoDB и Mongoose.
+- Конфигурация сборки проектов с использованием Webpack, Gulp и Vite, а также настройка линтеров и Husky.
+- Знание UI библиотек, таких как TailwindCSS, Material UI, Next UI, Ant Design, Chakra UI и Bootstrap.
+- Опыт работы с системами контроля версий Git и управления зависимостями с помощью NPM и YARN.
+- Навыки работы с графическими инструментами, такими как Figma, Photoshop, а также инструментами для тестирования API, такими как Postman и Insomnia.
+
+Места работы:
+Freelance
+01/2020 - 02/2022
+Frontend Developer
+- Осуществление фриланс-разработки в области веб-приложений.
+
+Inter Solution Kazakhstan
+02/2022 - 05/2023
+Frontend Developer
+- Участие в разработке интерактивных веб-приложений для клиентов компании.
+
+Clopos Azerbaijan
+05/2023 - Настоящее время
+Frontend Developer
+- Разработка и поддержка веб-приложений для компании Clopos.
+
+Дополнительные навыки:
+- Опыт работы с различными фреймворками и библиотеками.
+- Знание TypeScript для более строгой типизации кода.
+- Умение использовать WebSocket для реального времени в веб-приложениях.
+- Знание GraphQL и опыт работы с Apollo Client и Server.
+- Опыт работы с различными реляционными и NoSQL базами данных.
+- Навыки настройки и оптимизации сборки проектов.
+- Умение работать с графическими и дизайнерскими инструментами.
+- Знание DevTools для отладки и профилирования приложений.
+
+Я готов внести свой опыт и навыки в разработку качественных веб-приложений. Готов присоединиться к команде и помочь достичь ваших целей в области веб-разработки.
 
 Навыки
 Усидчивость.
